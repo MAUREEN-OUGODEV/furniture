@@ -1,0 +1,177 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    overflow-x: hidden;
+    font-family:  'Poppins', sans-serif;;
+}
+.navbar{
+   margin-left: 30px; 
+position: absolute;
+padding-top: 15px;
+}
+.navbar a{
+    margin-left: 150px;
+    text-decoration: none;
+    color:black;
+}
+
+ .landpage{
+    display: flex;
+    background-color: bisque;
+ }
+.sectionfirst{
+    display: flex;
+    
+}
+.main{
+    display: flex;
+   
+}
+
+.paragraph{
+    margin-top: 100px;
+    padding: 30px;
+    font-size: 20px;
+}
+.image img{
+    padding: 50px;
+    height: 500px;
+    
+}
+.paragraph button{
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 15px;
+    color: whitesmoke;
+    padding: 10px 50px 10px 50px;
+    border: none;
+}
+
+.image{
+    background-color: rgba(212, 206, 206, 0.952);
+    width: 60%;
+    height: 600px;
+
+}.paragraph{
+    width: 40%;
+}
+
+   
+    
+
+
+.newproducts{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+}
+.heading h1{
+    text-align: center;
+
+}
+.newProducts img{
+    height: 200px;
+}
+.newproducts h4{
+    text-align: center;
+}
+.word{
+    display:flex;
+    gap: 150px;
+    
+}
+.word h3{
+   text-align: center;
+}
+.bed,.fonk,.sofa,.tabel{
+background-color: rgba(240, 240, 238, 0.7);
+}
+.sectionOne{
+    display: flex;
+    gap: 40px;
+    justify-items: center;
+    overflow: hidden;
+    
+}
+.project h3,h6{
+    position: relative;
+}
+.discount{
+    background-color: black;
+    color: rgb(234, 235, 235);
+    height: 200px;
+    padding: 60px;
+
+
+}
+.discount h1 {
+   
+    text-align: center;
+}
+.discount p{
+    font-size: 20px;
+    text-align: center;
+}
+.form{
+    padding-left: 300px;
+}
+.text{
+    margin-left: 50px;
+}
+.form button{
+    gap: 90px;
+    font-size: 15px;
+    margin-left: 100px;
+    background-color: transparent;
+    border: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 40px 10px 40px;
+
+}
+.text{
+border:none ;
+
+background-color: transparent;
+border-bottom: 0.5px solid white;
+
+
+
+}
+.section3{
+    display:flex;
+    padding-top:100px;
+    
+}
+.twoPicture{
+    margin-left: 50px;
+}
+.magazinePage{
+    display: flex;
+    gap: 20px;
+    padding: 50px;
+}
+.magazine h1{
+    font-size: 40px;
+}
+.Endpage{
+    background-color: black;
+    color: azure;
+}
+.endlace{
+    display: flex;
+    gap: 200px;
+    padding: 30px;
+}
+.end{
+    display:flex;
+    gap:300px;
+}
+
+
+
+
